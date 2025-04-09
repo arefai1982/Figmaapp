@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(240, 231, 231);
+    
+
+}
+
+h1{
+    font-style: italic;
+    font-variant: inherit;
+    text-align: right;
+    font-family: cursive;
+    margin: auto;
+    border: 10px solid black;
+    
+ 
+}
+
+h2{
+    color: rgb(21, 21, 151);
+    text-align: center;
+    text-align: left;
+    border: 10px solid;
+    padding: 20px;
+
+}
+
+    
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0;
+
+}
+
+th, td {
+    border: 1px solid #000;
+    padding: 1cap;
+    text-align: center;
+    display: flow-root;
+    margin: 0;
+    font-size: 33px;
+
+}
+
+
+    
+button{
+    font-size: 20px;
+    text-align: center;
+}
+
+hr{
+    border-color: rgb(4, 61, 4);
+}
+
+div{
+    text-align: center;
+    font-size: 2rem;
+    padding: 0cap;
+    margin: 1.5rem;
+}
+
+
